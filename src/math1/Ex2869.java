@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //문제 자체는 쉬웠는데, 시간초과로 무조건 bufferedreader사용헤야한다.
-//반복문 돌면 시간초과.... 반복문 사용안하는 아이디어 찾기
+//반복문 돌면 시간초과.... 반복문 사용안하는 아이디어 찾기!!!!
 public class Ex2869 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
