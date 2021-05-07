@@ -40,12 +40,12 @@ public class Ex3_2 {
 			if(cnt>=k) {
 				cnt=0;
 				result+=nums[1];
-				System.out.println(result);
 				continue;
 			}
 			result+=nums[0];
 			cnt++;
 		}
+		System.out.println(result);
 	}
 
 }
