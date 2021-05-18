@@ -1,4 +1,4 @@
-package math2;
+package recursion;
 
 import java.util.Scanner;
 
