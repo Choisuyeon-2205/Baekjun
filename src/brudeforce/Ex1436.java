@@ -31,6 +31,7 @@ public class Ex1436 {
 				}
 				j/=10;
 			}	
+			
 			if(j==6) chk++;
 			if(chk>=3) count++;
 			if(count==n) break;
