@@ -29,8 +29,6 @@ public class Ex1 {
 			}
 			answer[j]= score;
 		}
-
-		rank
 		System.out.println(Arrays.toString(answer));
 	}
 
