@@ -13,7 +13,6 @@ public class Ex1932 {
 		n= sc.nextInt();
 		sum= new Integer[n][n];
 		num= new int[n][n];
-		
 		for(int i=0;i<n;i++) {
 			for(int j=0;j<i+1;j++) {
 				num[i][j]= sc.nextInt();
